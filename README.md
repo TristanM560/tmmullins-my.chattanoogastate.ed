@@ -1,4 +1,4 @@
 ## Tristan Mullins Project Page
 
-<a href="example/index.html">Example Page</a>
+<a href="work/index.html">Example Page</a>
 
