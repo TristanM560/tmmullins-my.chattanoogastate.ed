@@ -6,4 +6,4 @@
 
 <a href="work/index.html">Example Page</a>
 
-<a href="lab 2/index.html" target="_blank">Lab 2</a>
+<a href="lab 2/index.html">Lab 2</a>
